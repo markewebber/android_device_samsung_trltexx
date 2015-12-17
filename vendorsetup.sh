@@ -1,4 +1,3 @@
 add_lunch_combo vu_trltexx-eng
-add_lunch_combo vu_trltexx-user
-add_lunch_combo vu_trltexx-userdebug
+
 
