@@ -1,28 +1,7 @@
 [
   {
-    "repository":  "android_device_samsung_trlte-common",
-    "target_path": "device/samsung/trlte-common",
-    "branch":      "cm-13.0"
-  },
-  {
-    "repository":  "android_device_qcom-common",
-    "target_path": "device/qcom/common",
-    "branch":      "cm-13.0"
-  },
-  {
-    "repository":  "android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common",
-    "branch":      "cm-13.0"
-  },
-  {
-    "repository":  "android_kernel_samsung_trlte",
-    "target_path": "kernel/samsung/trlte",
-    "branch":      "cm-13.0"
-  },
-  {
-    "repository":  "android_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "branch":      "cm-13.0"
+    "repository": "android_device_samsung_trlte-common",
+    "target_path": "device/samsung/trlte-common"
   }
 ]
 
